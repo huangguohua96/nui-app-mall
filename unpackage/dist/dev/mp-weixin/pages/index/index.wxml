@@ -1,1 +1,1 @@
-<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title+"--"+msg}}</text></view></view>
+<view class="content"><view class="search"><input type="text" value=""/><label class="iconfont icon-zhenhuichongtubiaozhizuo-kuozhan- _span"></label></view><view class="page-section swiper"><myswiper vue-id="1" swiper="{{swiper}}" bind:__l="__l"></myswiper></view></view>
